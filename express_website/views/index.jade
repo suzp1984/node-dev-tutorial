@@ -1,5 +1,25 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  .container
+    .jumbotron
+      .container
+        h1= title
+        p Welcome to #{title}
+        a.btn.btn-primary.btn-lg(href='#') Learn More
+    .container
+      .row
+        .col-md-4
+          h2 About me
+          p plus plus plus plus plus plus plus plus plus
+          a.btn.btn-default(href="#") View Details
+        .col-md-4
+          h2 Service
+          p plus plus plus plus plus plus plus plus plus
+          a.btn.btn-default(href="#") View Details
+        .col-md-4
+          h2 Get in Touch
+          p plus plus plus plus plus plus plus plus plus
+          a.btn.btn-default(href="#") View Details
+
+        

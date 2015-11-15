@@ -1,0 +1,6 @@
+# create mongo db named nodeauth
+  use nodeauth
+
+# create collection: users in the nodeauth db
+  db.createCollection('users')
+  

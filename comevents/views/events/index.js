@@ -70,6 +70,7 @@ exports.create = function(req, res, next){
             return workflow.emit('response');
         }
 
+        workflow.emit('createEvent');
 
     });
 
@@ -81,7 +82,7 @@ exports.create = function(req, res, next){
             date: req.body.date,
             startTime: req.body.startTime,
             endTime: req.body.endTime,
-            username: req.body.username,
+            username: req.user.username,
             search: [
                 req.body.name
             ]

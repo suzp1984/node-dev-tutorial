@@ -22,9 +22,10 @@
           <nav class="top-bar" role="navigation">
             <section class="top-bar-section">
               <ul class="menu left">
-                <li><a href="/">Home</a></li>
-                <li><a href="/pages/about">About</a></li>
-                <li><a href="/cart">Cart</a></li>
+                <li><a href="/manage">DashBoard</a></li>
+                <li><a href="/manage/books">Books</a></li>
+                <li><a href="/manage/categories">Categories</a></li>
+                <li><a href="/" target="_blank">View Website</a></li>
               </ul>
             </section>
             

@@ -1,0 +1,27 @@
+{>"layouts/master" /}
+
+{<body}
+    <div class="row">
+         <div class="large-4 columns">
+              <img src="/img/test.jpg">
+         </div>
+
+         <div class="large-8 columns">
+             <h2>Professional Node.js</h2>
+             <ul class="bookinfo">
+                 <li>Category: Node.js</li>
+                 <li>Author: John Doe</li>
+                 <li>Publisher: Some Publisher</li>
+             </ul>
+             <br>
+             <div class="price">
+             <span>$19.99</span>
+             </div>
+             <br>
+             <p>pppppppppppppppppppppppppppppppppppppppppp</p>
+             <a class="button success">Add to Cart</a>
+         </div>
+
+    </div>
+    
+{/body}

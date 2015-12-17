@@ -2,6 +2,47 @@
 
 {<body}
     <div class="large-3 columns book">
-         
+         <img src="/img/test.jpg"/>
+         <h4>Professinal Node.js</h4>
+         <p>dssssssssssssssssssssssss</p>
+         <div class="price">Buy it for <span>$19.99</span></div>
+         <br>
+         <a href="/books/details/1" class="button small">Book Details</a>
+    </div>
+
+    <div class="large-3 columns book">
+         <img src="/img/test.jpg"/>
+         <h4>Professinal Node.js</h4>
+         <p>dssssssssssssssssssssssss</p>
+         <div class="price">Buy it for <span>$19.99</span></div>
+         <br>
+         <a href="/books/details/1" class="button small">Book Details</a>
+    </div>
+
+    <div class="large-3 columns book">
+         <img src="/img/test.jpg"/>
+         <h4>Professinal Node.js</h4>
+         <p>dssssssssssssssssssssssss</p>
+         <div class="price">Buy it for <span>$19.99</span></div>
+         <br>
+         <a href="/books/details/1" class="button small">Book Details</a>
+    </div>
+
+    <div class="large-3 columns book">
+         <img src="/img/test.jpg"/>
+         <h4>Professinal Node.js</h4>
+         <p>dssssssssssssssssssssssss</p>
+         <div class="price">Buy it for <span>$19.99</span></div>
+         <br>
+         <a href="/books/details/1" class="button small">Book Details</a>
+    </div>
+
+    <div class="large-3 columns book">
+         <img src="/img/test.jpg"/>
+         <h4>Professinal Node.js</h4>
+         <p>dssssssssssssssssssssssss</p>
+         <div class="price">Buy it for <span>$19.99</span></div>
+         <br>
+         <a href="/books/details/1" class="button small">Book Details</a>
     </div>
 {/body}

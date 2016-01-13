@@ -1,0 +1,11 @@
+{
+  "name": "methods-constructor",
+  "version": "1.0.0",
+  "description": "describle how to use constructors and methods in a module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
